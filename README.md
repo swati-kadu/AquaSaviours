@@ -47,10 +47,15 @@ The main focus of our idea remains on helping each resident save as much water a
 
 ![Video transcription/translation app](./images/final-home-nw.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The IoT devices send data to IBM IOT platform over the internet.
+2. The IoT platform stores the data in IBM DB2
+3. The AquaOne app calls the Application to get the water consumption of the user.
+4. The water consumption data is fetched from IBM DB2 database
+5. The IBM Watson machine learning is fed the data from DB2 database.
+6. The user interacts with the chatbot that is supported by IBM Watson Assistent.
+7. The IBM Watson Assistent gets the recommendations from IBM machine learning based on the water usage.
+8. For my contribution towards water saving the graphs are fetched from IBM Cognos Analytics.
+9. Similarly a community leader or environmentalist can view the distribution data of all residents by fetching the analytics data from IBM Cognos Analytics.
 
 ## Long description
 
