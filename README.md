@@ -41,7 +41,7 @@ The main focus of our idea remains on helping each resident save as much water a
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://www.youtube.com/watch?v=EShozfM1Pik)
+[![Watch the video](./Save2.jpg)](https://www.youtube.com/watch?v=EShozfM1Pik)
 
 ## The architecture
 
@@ -94,12 +94,12 @@ Future Integrations:
 ## Getting started
 
 
-- [chatbot](./chatbot/index.html/)
+- [chatbot](./chatbot/index.html)
 - [angular_app](./angular_app/)
 
 ## Live demo
 
-You can find a running chatbot to test at [AquinaAssitant](./chatbot/index.html/).
+You can find a running chatbot to test at [AquinaAssitant](./chatbot/index.html).
 
 ## Built with
 
