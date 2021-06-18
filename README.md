@@ -31,11 +31,13 @@ Water is most essential, limited and invaluable resource available on earth. A d
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Residents can get to know their daily, monthly and yearly water consumption by using sensor based IOT devices. Residents can also interact with a chatbot that can provide all the required information like where the consumption is more, recommendations on how to save more water etc. Residents can also compete with each other through gamification dashboard where each saving will add to points their by encouraging resident to save more water. Residents can also interact with experts to gain more knowledge on water saving techniques. 
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Our idea promotes saving of water by allowing residents to view their water consumption using IOT devices. Residents can also track their progress through gamification dashboard which will show their position in water saving as compared to other residents. Residents can interact with a chatbot backed by IBM Watson Assistant that can provide all the required information like where the consumption is more, recommendations on how to save more water etc. Residents are  encoured to resolve leakages issues on priority. Residents can also interact with experts and capture photos and post of facebook for creating awareness about water saving. The IOT devices can also help get information on water purity.
+Apart from above certain IOT device which stop the flow can be used to switch off supply from main inlets when residents are going on vacation. The vaction mode will save water incase residents forget to close taps when there was no supply and when supply resumes the water start overflowing causing a lot of wastage.
+The main focus of our idea remains on helping each resident save as much water as they can by providing access to all the required information. The data collected from IOT devices is maintained in IBM cloud and Cognos is used to generate the required graphs for gamification.
 
 ## Demo video
 
@@ -89,13 +91,6 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 - [Maven](https://maven.apache.org/) - Dependency management
 - [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
