@@ -55,7 +55,7 @@ The main focus of our idea remains on helping each resident save as much water a
 7. The IBM Watson Assistant gets the recommendations from IBM machine learning based on the water usage.
 8. For my contribution towards water saving the graphs are fetched from IBM Cognos Analytics.
 9. The Cognos Analytics creates reports by fetching data from DB2 database. 
-10. Similarly a community leader or environmentalist can view the distribution data of all residents by fetching the analytics data from IBM Cognos Analytics.
+10. Similarly, a community leader or environmentalist can view the distribution data of all residents by fetching the analytics data from IBM Cognos Analytics.
 
 ## Long description
 
@@ -66,10 +66,10 @@ The main focus of our idea remains on helping each resident save as much water a
 The prototype submitted does the following:
 1. Allows user to view their water consumption on daily, monthly, yearly basis.
 2. Show water distribution in various areas of home like kitchen, toilet, washing areas etc.
-3. On selecting the areas the app provides general recommendations for saving more water.
+3. On selecting the areas, the app provides general recommendations for saving more water.
 4. The profile shows the badges earned by user based on the water saving done till date.
 5. Based on badges the user earned points are shown and an option to redeem the same are shown.
-6. The profile section provides an option for vacation mode which when turned on switches off the supply from main inlet their by saving water due to open or leaking taps.
+6. The profile section provides an option for vacation mode which when turned on switches off the supply from main inlet there by saving water due to open or leaking taps.
 7. My Contribution screen shows the user water savings in comparison to other users.
 8. The purity option shows the water purity levels.
 9. The IBM Assistant chatbot is integrated which provides recommendations.
@@ -81,7 +81,7 @@ Future Roadmap:
 
 
 Future Integrations:
-   Integrate with weather service to predict the rainfail and generate predictions about required consumption per house and save water if rainfall is not going to be adequate.
+   Integrate with weather service to predict the rainfall and generate predictions about required consumption per house and save water if rainfall is not going to be adequate.
    Provide area details where people consume water efficiently and water shortage is minimum.
    Provide rental flat data where water saving apps are provided and owner can view the water consumption.
    Set limit on daily water consumptions and support prepaid water availability.
