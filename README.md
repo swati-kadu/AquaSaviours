@@ -45,7 +45,7 @@ The main focus of our idea remains on helping each resident save as much water a
 
 ## The architecture
 
-![Video transcription/translation app](https://drive.google.com/file/d/1-16b4lPfpVRo5neZz-i7O9f1qBQGeZ4D/view?usp=sharing)
+![Video transcription/translation app](./images/roadmap.jpg)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
