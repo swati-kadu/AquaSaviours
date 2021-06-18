@@ -41,7 +41,7 @@ The main focus of our idea remains on helping each resident save as much water a
 
 ## Demo video
 
-[![Watch the video](./Save2.jpg)](https://www.youtube.com/watch?v=EShozfM1Pik)
+[![Watch the video](./images/Save2.jpg)](https://www.youtube.com/watch?v=EShozfM1Pik)
 
 ## The architecture
 
