@@ -40,8 +40,7 @@ Apart from above certain IOT device which stop the flow can be used to switch of
 The main focus of our idea remains on helping each resident save as much water as they can by providing access to all the required information. The data collected from IOT devices is maintained in IBM cloud and Cognos is used to generate the required graphs for gamification.
 
 ## Demo video
-
-[![Watch the video](./images/Save2.jpg)](https://www.youtube.com/watch?v=EShozfM1Pik)
+[![Watch the video](https://github.com/swati-kadu/AquaSaviours/images/Save2.jpg)](https://www.youtube.com/watch?v=EShozfM1Pik)
 
 ## The architecture
 
