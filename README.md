@@ -27,7 +27,7 @@ AquaSavious
 
 ### What's the problem?
 
-Water is most essential, limited and invaluable resource available on earth. A drop of water is worth more than a sack of gold to a thirsty man. As the population is increasing the water needs are also increasing hence as a world citizen it is important for us to save water by all means. As a resident I should have access to all the water saving techniques and I should be motivated to do the same. To inculcate this habit technology can be used by providing all the required help and motivation to continue saving water by all means. To save water one needs to know their daily water consumption and then make a plan to reduce it consciously. You also need advice from experts to save water efficiently. Recycling used water is expensive but saving water at individual level is less expensive and contributes to more fresh water availability.
+Water is the most essential, limited and invaluable resource available on earth. A drop of water is worth more than a sack of gold to a thirsty man. As the population is increasing the water needs are also increasing hence as a world citizen it is important for us to save water by all means. As a resident I should have access to all the water saving techniques and I should be motivated to do the same. To inculcate this habit technology can be used by providing all the required help and motivation to continue saving water by all means. To save water one needs to know their daily water consumption and then make a plan to reduce it consciously. You also need advice from experts to save water efficiently. Recycling used water is expensive but saving water at individual level is less expensive and contributes to more fresh water availability.
 
 ### How can technology help?
 
@@ -55,7 +55,8 @@ The main focus of our idea remains on helping each resident save as much water a
 6. The user interacts with the chatbot that is supported by IBM Watson Assistant.
 7. The IBM Watson Assistant gets the recommendations from IBM machine learning based on the water usage.
 8. For my contribution towards water saving the graphs are fetched from IBM Cognos Analytics.
-9. Similarly a community leader or environmentalist can view the distribution data of all residents by fetching the analytics data from IBM Cognos Analytics.
+9. The Cognos Analytics creates reports by fetching data from DB2 database. 
+10. Similarly a community leader or environmentalist can view the distribution data of all residents by fetching the analytics data from IBM Cognos Analytics.
 
 ## Long description
 
@@ -63,15 +64,18 @@ The main focus of our idea remains on helping each resident save as much water a
 
 ## Project roadmap
 
-The project currently does the following things.
+The prototype submitted does the following:
+1. Shows water consumption on daily, monthly, yearly basis.
+2. Show water distribution in various areas of home.
+3. OProvides general recommendations for saving more water.
+4. The profile shows the badges earned by user based on the water saving done till date.
+5. Based on badges the user earned points are shown and an option to redeem the same are shown.
+6. The profile section provides an option for vacation mode which when turned on switches off the supply from main inlet their by saving water due to open or leaking taps.
+7. 
 
-- Feature 1
-- Feature 2
-- Feature 3
 
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
+
 
 ![Roadmap]
 
