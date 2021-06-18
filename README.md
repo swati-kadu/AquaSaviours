@@ -63,21 +63,33 @@ The main focus of our idea remains on helping each resident save as much water a
 [More detail is available here](./docs/DESCRIPTION.md)
 
 ## Project roadmap
-
+![Roadmap]
 The prototype submitted does the following:
-1. Shows water consumption on daily, monthly, yearly basis.
-2. Show water distribution in various areas of home.
-3. OProvides general recommendations for saving more water.
+1. Allows user to view their water consumption on daily, monthly, yearly basis.
+2. Show water distribution in various areas of home like kitchen, toilet, washing areas etc.
+3. On selecting the areas the app provides general recommendations for saving more water.
 4. The profile shows the badges earned by user based on the water saving done till date.
 5. Based on badges the user earned points are shown and an option to redeem the same are shown.
 6. The profile section provides an option for vacation mode which when turned on switches off the supply from main inlet their by saving water due to open or leaking taps.
-7. 
+7. My Contribution screen shows the user water savings in comparison to other users.
+8. The purity option shows the water purity levels.
+9. The IBM Assistant chatbot is integrated which provides recommendations.
+
+Future Roadmap:
+1. Connect the IOT devices to IOT platform.
+2. A Node-RED workflow then sends the data to the IBM Watson-based machine learning model, which provides the recommendations based on water usage and that is displayed in the AquaOne dashboard.
+3. Store all of the information in a Cloudant database, provide a historical view of the data. The service can be deployed in Kubernetes, inside the IBM Cloud Kubernetes Service and use websockets server with an NGINX web server to show the data in a comprehensive way. Any authenticated and authorized client that supports JavaScript and WebSockets can connect to the dashboard that shows the water utilization of residents who have subscribed to the AquaSaviour services.
+
+
+Future Integrations:
+   Integrate with weather service to predict the rainfail and generate predictions about required consumption per house and save water if rainfall is not going to be adequate.
+   Provide area details where people consume water efficiently and water shortage is minimum.
+   Provide rental flat data where water saving apps are provided and owner can view the water consumption.
+   Set limit on daily water consumptions and support prepaid water availability.
 
 
 
 
-
-![Roadmap]
 
 ## Getting started
 
