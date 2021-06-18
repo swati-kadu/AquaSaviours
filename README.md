@@ -98,24 +98,24 @@ Future Integrations:
 
 ## Live demo
 
-You can find a running chatbot to test at [AquinaAssitant](https://sites.google.com/view/aquasaviours/home).
+You can find the prototype at [AquaOne](https://xd.adobe.com/view/605059e6-2920-4f23-85f3-d303b64300ba-3503)
+You can find a running chatbot to test at [AquinaAssitant](https://sites.google.com/view/aquasaviours/home)
 
 ## Built with
 
-- [IBM Watson](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+- [IBM Watson Assistant](https://www.ibm.com/in-en/cloud/watson-assistant) - The chatbot integration.
+- [IBM DB2](https://www.ibm.com/uk-en/analytics/db2) - The database for saving data collected from IoT devices.
+- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - API for fetching data from database.
+- [IBM IOT platform](https://internetofthings.ibmcloud.com/) - The IOT platform that connects with IOT centers
+- [IBM Watson machine learning](https://www.ibm.com/in-en/cloud/machine-learning) - Recommendations generated.
+- [IBM Cognos Analytics](https://www.ibm.com/community/businessanalytics/cognos/) - Analytics tool that generates graphs
 - [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
 ## Authors
 
-<a href="https://github.com/swati-kadu/AquaSaviours/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=swati-kadu/AquaSaviours" />
-</a>
-
+- **Swati Kadu** 
+- **Sanketh Shetty** 
 - **Ashadeepa Debnath** 
 - **Paramita Guha**
 - **Harsh Solanki**
