@@ -1,0 +1,177 @@
+
+<!--<ngb-tabset>-->
+<!--  <ngb-tab title="Daily">-->
+<!--    <ng-template ngbTabContent>-->
+<!--      <radial-gauge-->
+<!--        [value]="(value$ | async)"-->
+<!--        title="Consumption"-->
+<!--        units="LPH"-->
+<!--        width="300"-->
+<!--        height="300"-->
+<!--        min-value="0"-->
+<!--        max-value="100"-->
+<!--        major-ticks="0,10 ,20,30,40,50 ,60,70 ,80,90 ,100"-->
+<!--        minor-ticks="2"-->
+<!--        font-numbers-size="25"-->
+
+<!--        color-plate="#000"-->
+<!--        color-plate-end="#222"-->
+<!--        color-major-ticks="#888"-->
+<!--        color-minor-ticks="#ddd"-->
+<!--        color-title="#eee"-->
+<!--        color-units="#ccc"-->
+<!--        color-numbers="#bb1"-->
+<!--        highlights='[-->
+<!--        {"from": 0, "to": 20, "color": "rgb(50,205,50)"},-->
+<!--        {"from": 20, "to": 40, "color": "rgb(0,191,255)"},-->
+<!--        {"from": 40, "to": 80, "color": "rgb(255,255,0)"},-->
+<!--        {"from": 80, "to": 100, "color": "rgb(220,20,60)"}-->
+<!--    ]'-->
+
+<!--        needle-type="arrow"-->
+<!--        needle-width="2"-->
+<!--        needle-circle-size="7"-->
+<!--        needle-circle-outer="true"-->
+<!--        needle-circle-inner="false"-->
+<!--        color-needle-shadow-down="#550"-->
+<!--        color-needle-circle-outer="#333"-->
+<!--        color-needle-circle-outer-end="#111"-->
+<!--        animation-duration="900"-->
+<!--        animation-rule="linear"-->
+
+<!--        borders="true"-->
+<!--        border-inner-width="10"-->
+<!--        border-middle-width="1"-->
+<!--        border-outer-width="5"-->
+<!--        border-shadow-width="0"-->
+<!--        color-border-outer="#111"-->
+<!--        color-border-middle="#888"-->
+<!--        color-border-middle-end="#555"-->
+<!--        color-border-inner="#111"-->
+
+<!--        value-box="false"-->
+<!--      ></radial-gauge>-->
+<!--    </ng-template>-->
+<!--  </ngb-tab>-->
+<!--  <ngb-tab title="Monthly">-->
+<!--    <ng-template ngbTabContent>-->
+<!--      <radial-gauge-->
+<!--        [value]="(value$ | async)"-->
+<!--        title="Monthly Consumption"-->
+<!--        units="MPH"-->
+<!--        width="300"-->
+<!--        height="300"-->
+<!--        min-value="0"-->
+<!--        max-value="120"-->
+<!--        major-ticks="0, ,20, ,40, ,60, ,80, ,100, ,120"-->
+<!--        minor-ticks="2"-->
+<!--        font-numbers-size="25"-->
+
+<!--        color-plate="#000"-->
+<!--        color-plate-end="#222"-->
+<!--        color-major-ticks="#888"-->
+<!--        color-minor-ticks="#ddd"-->
+<!--        color-title="#eee"-->
+<!--        color-units="#ccc"-->
+<!--        color-numbers="#bb1"-->
+<!--        highlights='[-->
+<!--        {"from": 80, "to": 120, "color": "rgba(200, 50, 50, .5)"}-->
+<!--    ]'-->
+
+<!--        needle-type="arrow"-->
+<!--        needle-width="2"-->
+<!--        needle-circle-size="7"-->
+<!--        needle-circle-outer="true"-->
+<!--        needle-circle-inner="false"-->
+<!--        color-needle-shadow-down="#550"-->
+<!--        color-needle-circle-outer="#333"-->
+<!--        color-needle-circle-outer-end="#111"-->
+<!--        animation-duration="900"-->
+<!--        animation-rule="linear"-->
+
+<!--        borders="true"-->
+<!--        border-inner-width="10"-->
+<!--        border-middle-width="1"-->
+<!--        border-outer-width="5"-->
+<!--        border-shadow-width="0"-->
+<!--        color-border-outer="#111"-->
+<!--        color-border-middle="#888"-->
+<!--        color-border-middle-end="#555"-->
+<!--        color-border-inner="#111"-->
+
+<!--        value-box="false"-->
+<!--      ></radial-gauge>-->
+<!--    </ng-template>-->
+<!--  </ngb-tab>-->
+<!--  <ngb-tab title="Yearly">-->
+<!--    <ng-template ngbTabContent>-->
+<!--      <radial-gauge-->
+<!--        [value]="(value$ | async)"-->
+<!--        title="Yearly Consumption"-->
+<!--        units="MPH"-->
+<!--        width="300"-->
+<!--        height="300"-->
+<!--        min-value="0"-->
+<!--        max-value="120"-->
+<!--        major-ticks="0, ,20, ,40, ,60, ,80, ,100, ,120"-->
+<!--        minor-ticks="2"-->
+<!--        font-numbers-size="25"-->
+
+<!--        color-plate="#000"-->
+<!--        color-plate-end="#222"-->
+<!--        color-major-ticks="#888"-->
+<!--        color-minor-ticks="#ddd"-->
+<!--        color-title="#eee"-->
+<!--        color-units="#ccc"-->
+<!--        color-numbers="#bb1"-->
+<!--        highlights='[-->
+<!--        {"from": 80, "to": 120, "color": "rgba(200, 50, 50, .5)"}-->
+<!--    ]'-->
+
+<!--        needle-type="arrow"-->
+<!--        needle-width="2"-->
+<!--        needle-circle-size="7"-->
+<!--        needle-circle-outer="true"-->
+<!--        needle-circle-inner="false"-->
+<!--        color-needle-shadow-down="#550"-->
+<!--        color-needle-circle-outer="#333"-->
+<!--        color-needle-circle-outer-end="#111"-->
+<!--        animation-duration="900"-->
+<!--        animation-rule="linear"-->
+
+<!--        borders="true"-->
+<!--        border-inner-width="10"-->
+<!--        border-middle-width="1"-->
+<!--        border-outer-width="5"-->
+<!--        border-shadow-width="0"-->
+<!--        color-border-outer="#111"-->
+<!--        color-border-middle="#888"-->
+<!--        color-border-middle-end="#555"-->
+<!--        color-border-inner="#111"-->
+
+<!--        value-box="false"-->
+<!--      ></radial-gauge>-->
+<!--    </ng-template>-->
+<!--  </ngb-tab>-->
+<!--</ngb-tabset>-->
+<!--<html>-->
+<!--<body>-->
+<!--&lt;!&ndash;-->
+<!--The html file is used when you are in development mode. The compiled extensions are automatically-->
+<!--added to this file by Webpack when you are developing using npm run dev.-->
+<!--&ndash;&gt;-->
+<!--<script>-->
+<!--  window.watsonAssistantChatOptions = {-->
+<!--    integrationID: "8aaf0649-2bd3-4a0d-bc98-43171e844ef0", // The ID of this integration.-->
+<!--    region: "eu-gb", // The region your integration is hosted in.-->
+<!--    serviceInstanceID: "d6fc2b24-36be-48ad-b746-123dc6f34d58", // The ID of your service instance.-->
+<!--    onLoad: function(instance) { instance.render(); }-->
+<!--  };-->
+<!--  setTimeout(function(){-->
+<!--    const t=document.createElement('script');-->
+<!--    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";-->
+<!--    document.head.appendChild(t);-->
+<!--  });-->
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->
