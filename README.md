@@ -1,8 +1,7 @@
 # Submission or project name
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
-
-A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [register for Call for Code 2021](https://developer.ibm.com/callforcode/get-started/)!
+AquaOne
 
 > If you're new to open source, please consider taking the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source).
 
@@ -33,7 +32,8 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+Water is most essential, limited and invaluable resource available on earth. A drop of water is worth more than a sack of gold to a thirsty man. As and when population is increasing the water needs are also increasing hence as a world citizen it is important for us to save water by all means.
+As a resident I should have access to all the water saving techniques and I should be motivated to do the same. To inculcate this habit technology can be used by providing all the required help and motivation to continue saving water by all means. To save water one needs to know their daily water consumption and then make a plan to reduce it consciously. You also need advice from experts to save water efficiently. In our idea we have addressed this problem.
 
 ### How can technology help?
 
