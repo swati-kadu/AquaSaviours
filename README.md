@@ -89,12 +89,12 @@ Future Integrations:
 ## Getting started
 
 
-- [chatbot](https://drive.google.com/file/d/1OWv21_SQ3tg88QLZIm5ACJbmQlNwPcFA/view?usp=sharing)
+- [chatbot](./chatbot/index.html)
 - [angular_app](./angular_app/)
 
 ## Live demo
 
-You can find a running chatbot to test at [AquinaAssitant](./chatbot/index.html).
+You can find a running chatbot to test at [AquinaAssitant](https://sites.google.com/view/aquasaviours/home).
 
 ## Built with
 
