@@ -45,7 +45,7 @@ The main focus of our idea remains on helping each resident save as much water a
 
 ## The architecture
 
-![Video transcription/translation app](./images/roadmap.jpg)
+![Video transcription/translation app](./images/final-home-nw.png)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
@@ -68,7 +68,7 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap]
 
 ## Getting started
 
