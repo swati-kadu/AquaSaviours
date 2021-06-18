@@ -112,16 +112,19 @@ You can find a running chatbot to test at [AquinaAssitant](https://sites.google.
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+<a href="https://github.com/swati-kadu/AquaSaviours/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=swati-kadu/AquaSaviours" />
 </a>
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- **Ashadeepa Debnath** 
+- **Paramita Guha**
+- **Harsh Solanki**
+
+Mentor
+- **Mayuresh Kumbhar**
 
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
