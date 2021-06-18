@@ -41,7 +41,7 @@ The main focus of our idea remains on helping each resident save as much water a
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://www.youtube.com/watch?v=EShozfM1Pik)
 
 ## The architecture
 
@@ -93,19 +93,17 @@ Future Integrations:
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
+- [chatbot](./chatbot/index.html/)
+- [angular_app](./angular_app/)
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+You can find a running chatbot to test at [AquinaAssitant](./chatbot/index.html/).
 
 ## Built with
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [IBM Watson](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 - [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 - [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
 - [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
