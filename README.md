@@ -27,8 +27,7 @@ AquaSavious
 
 ### What's the problem?
 
-Water is most essential, limited and invaluable resource available on earth. A drop of water is worth more than a sack of gold to a thirsty man. As and when population is increasing the water needs are also increasing hence as a world citizen it is important for us to save water by all means.
-As a resident I should have access to all the water saving techniques and I should be motivated to do the same. To inculcate this habit technology can be used by providing all the required help and motivation to continue saving water by all means. To save water one needs to know their daily water consumption and then make a plan to reduce it consciously. You also need advice from experts to save water efficiently. In our idea we have addressed this problem.
+Water is most essential, limited and invaluable resource available on earth. A drop of water is worth more than a sack of gold to a thirsty man. As the population is increasing the water needs are also increasing hence as a world citizen it is important for us to save water by all means. As a resident I should have access to all the water saving techniques and I should be motivated to do the same. To inculcate this habit technology can be used by providing all the required help and motivation to continue saving water by all means. To save water one needs to know their daily water consumption and then make a plan to reduce it consciously. You also need advice from experts to save water efficiently. Recycling used water is expensive but saving water at individual level is less expensive and contributes to more fresh water availability.
 
 ### How can technology help?
 
