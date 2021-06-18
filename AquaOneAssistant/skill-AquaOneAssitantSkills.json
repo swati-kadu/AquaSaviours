@@ -1,0 +1,820 @@
+{
+  "intents": [
+    {
+      "intent": "Bot_Control_Approve_Response",
+      "examples": [
+        {
+          "text": "Affirmative. That's what I'm looking for."
+        },
+        {
+          "text": "All right"
+        },
+        {
+          "text": "Correct"
+        },
+        {
+          "text": "For sure!"
+        },
+        {
+          "text": "Got it"
+        },
+        {
+          "text": "Great"
+        },
+        {
+          "text": "I agree"
+        },
+        {
+          "text": "I like that"
+        },
+        {
+          "text": "Indeed!"
+        },
+        {
+          "text": "Sure thing!"
+        },
+        {
+          "text": "Sweet"
+        },
+        {
+          "text": "That is precisely what I was looking for"
+        },
+        {
+          "text": "That is right"
+        },
+        {
+          "text": "That is the proper response."
+        },
+        {
+          "text": "That is what I need"
+        },
+        {
+          "text": "That's exactly what I want"
+        },
+        {
+          "text": "This is alright"
+        },
+        {
+          "text": "Very well. Let's do it."
+        },
+        {
+          "text": "Yeah, that's it!"
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "You read my mind"
+        }
+      ],
+      "description": "Acknowledge that the response satisfies a question."
+    },
+    {
+      "intent": "Bot_Control_Change_Subject",
+      "examples": [
+        {
+          "text": "A different matter"
+        },
+        {
+          "text": "Another thing"
+        },
+        {
+          "text": "Can we talk about something else?"
+        },
+        {
+          "text": "Change topic"
+        },
+        {
+          "text": "Chat about something else"
+        },
+        {
+          "text": "Discuss something else"
+        },
+        {
+          "text": "Help me with this other question"
+        },
+        {
+          "text": "Here is another issue"
+        },
+        {
+          "text": "I have one more question"
+        },
+        {
+          "text": "Let us change the topic"
+        },
+        {
+          "text": "Let us talk about something else"
+        },
+        {
+          "text": "Talk about something else"
+        }
+      ],
+      "description": "Change to a different topic."
+    },
+    {
+      "intent": "Bot_Control_Clarification",
+      "examples": [
+        {
+          "text": "Can you say that again please?"
+        },
+        {
+          "text": "Come again?"
+        },
+        {
+          "text": "Explains"
+        },
+        {
+          "text": "I did not quite understand what you gave me"
+        },
+        {
+          "text": "I didn't catch that"
+        },
+        {
+          "text": "I didn't quite understand what you said"
+        },
+        {
+          "text": "I didn't understand that properly"
+        },
+        {
+          "text": "I don't get it"
+        },
+        {
+          "text": "I don't understand"
+        },
+        {
+          "text": "I don't understand what you're saying"
+        },
+        {
+          "text": "I need more information"
+        },
+        {
+          "text": "Let's try to say that again more clearly, shall we?"
+        },
+        {
+          "text": "What are you referring to?"
+        },
+        {
+          "text": "What are you saying?"
+        },
+        {
+          "text": "What are you talking about?"
+        },
+        {
+          "text": "What do you mean?"
+        },
+        {
+          "text": "What do you mean by that?"
+        }
+      ],
+      "description": "Repeat or clarify last statement."
+    },
+    {
+      "intent": "Bot_Control_Confirm_Presence",
+      "examples": [
+        {
+          "text": "Am I talking to someone?"
+        },
+        {
+          "text": "Anyone there?"
+        },
+        {
+          "text": "Are you leaving me?"
+        },
+        {
+          "text": "Are you on?"
+        },
+        {
+          "text": "Are you still around?"
+        },
+        {
+          "text": "Are you still here with me?"
+        },
+        {
+          "text": "Are you there?"
+        },
+        {
+          "text": "Did you go somewhere?"
+        },
+        {
+          "text": "Did you hear what I said?"
+        },
+        {
+          "text": "Have I lost you?"
+        },
+        {
+          "text": "I am still holding"
+        },
+        {
+          "text": "Is anybody here?"
+        },
+        {
+          "text": "Is anybody home?"
+        },
+        {
+          "text": "Speak to me if you are there."
+        },
+        {
+          "text": "Where'd you go?"
+        },
+        {
+          "text": "You around?"
+        }
+      ],
+      "description": "Ask the bot to indicate that it is available."
+    },
+    {
+      "intent": "Bot_Control_Ignore_Undo",
+      "examples": [
+        {
+          "text": "Actually, I take that back"
+        },
+        {
+          "text": "Cancel"
+        },
+        {
+          "text": "Hold on! I think I want to do it differently."
+        },
+        {
+          "text": "I change my mind."
+        },
+        {
+          "text": "I did not mean that?"
+        },
+        {
+          "text": "I didn't mean to do that actually, let's go back"
+        },
+        {
+          "text": "Ignore this"
+        },
+        {
+          "text": "It's not what I mean"
+        },
+        {
+          "text": "Let us redo that again!"
+        },
+        {
+          "text": "Never"
+        },
+        {
+          "text": "Never mind"
+        },
+        {
+          "text": "Nothing"
+        },
+        {
+          "text": "Not yet"
+        },
+        {
+          "text": "Wait! Let's back up few steps and do that again"
+        }
+      ],
+      "description": "Ask the bot to take one step back."
+    },
+    {
+      "intent": "Bot_Control_Reject_Response",
+      "examples": [
+        {
+          "text": "Bad response"
+        },
+        {
+          "text": "I disagree"
+        },
+        {
+          "text": "I do not think it is the answer?"
+        },
+        {
+          "text": "I don't need that"
+        },
+        {
+          "text": "I don't want that"
+        },
+        {
+          "text": "It is not what I want"
+        },
+        {
+          "text": "It is not what I was looking for"
+        },
+        {
+          "text": "I wasn't looking for that"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "No I'm fine thanks"
+        },
+        {
+          "text": "Not the right response"
+        },
+        {
+          "text": "That answer is incorrect"
+        },
+        {
+          "text": "That is not true"
+        },
+        {
+          "text": "That sounds like the wrong response"
+        },
+        {
+          "text": "That was not my intent"
+        },
+        {
+          "text": "That was wrong, try again"
+        },
+        {
+          "text": "Wrong response"
+        },
+        {
+          "text": "You did not understand what I asked"
+        },
+        {
+          "text": "You did not understand what I said"
+        },
+        {
+          "text": "You didn't understand me"
+        },
+        {
+          "text": "You're misunderstanding me"
+        }
+      ],
+      "description": "Indicate the bot's response does not address a question."
+    },
+    {
+      "intent": "Bot_Control_Standby",
+      "examples": [
+        {
+          "text": "Back again soon"
+        },
+        {
+          "text": "Be back later"
+        },
+        {
+          "text": "Be patient with me"
+        },
+        {
+          "text": "Can you give me a moment?"
+        },
+        {
+          "text": "Can you wait for me?"
+        },
+        {
+          "text": "Give me a few minutes to get together"
+        },
+        {
+          "text": "Give me a moment"
+        },
+        {
+          "text": "Give me a second"
+        },
+        {
+          "text": "Hold on"
+        },
+        {
+          "text": "In a moment"
+        },
+        {
+          "text": "I want stop a moment"
+        },
+        {
+          "text": "I will be back"
+        },
+        {
+          "text": "I would like to put you on hold"
+        },
+        {
+          "text": "Just a sec"
+        },
+        {
+          "text": "Just hold on"
+        },
+        {
+          "text": "Keep holding"
+        },
+        {
+          "text": "Let me see"
+        },
+        {
+          "text": "Need a minute here"
+        },
+        {
+          "text": "Out for a break"
+        },
+        {
+          "text": "Wait"
+        }
+      ],
+      "description": "Indicate a delay in providing input to the bot."
+    },
+    {
+      "intent": "Bot_Control_Start_Over",
+      "examples": [
+        {
+          "text": "Actually, let's start over"
+        },
+        {
+          "text": "Back to the beginning"
+        },
+        {
+          "text": "Back to the top"
+        },
+        {
+          "text": "Begin over!"
+        },
+        {
+          "text": "Can we please start over?"
+        },
+        {
+          "text": "How can I start over?"
+        },
+        {
+          "text": "I need to reset."
+        },
+        {
+          "text": "I want start from the beginning"
+        },
+        {
+          "text": "I would like to start all over"
+        },
+        {
+          "text": "Let's go back to square one"
+        },
+        {
+          "text": "Let's pick this up from the top again."
+        },
+        {
+          "text": "Let us reopen this again."
+        },
+        {
+          "text": "One more time from the beginning"
+        },
+        {
+          "text": "Please initiate from the beginning"
+        },
+        {
+          "text": "Please reset"
+        },
+        {
+          "text": "Please start a new chat"
+        },
+        {
+          "text": "Restart"
+        },
+        {
+          "text": "Start over"
+        },
+        {
+          "text": "We need a do-over"
+        },
+        {
+          "text": "We will need to begin again"
+        }
+      ],
+      "description": "Restart bot or current flow."
+    },
+    {
+      "intent": "Bot_Control_Unsure",
+      "examples": [
+        {
+          "text": "I don t know what you need"
+        },
+        {
+          "text": "I don t know what you want"
+        },
+        {
+          "text": "I have no idea, actually"
+        },
+        {
+          "text": "I have no idea what you are looking for"
+        },
+        {
+          "text": "I haven't got a clue"
+        },
+        {
+          "text": "I m not certain I get what you re saying"
+        },
+        {
+          "text": "I m not sure what will make you happy"
+        },
+        {
+          "text": "I m not yet convinced"
+        },
+        {
+          "text": "No clue"
+        },
+        {
+          "text": "No idea"
+        },
+        {
+          "text": "To be honest, I m really not sure"
+        },
+        {
+          "text": "You got me"
+        }
+      ],
+      "description": "Indicate no definite answer to a question."
+    },
+    {
+      "intent": "ConnectToPlumber",
+      "examples": [
+        {
+          "text": "leaks"
+        },
+        {
+          "text": "Need a plumber"
+        },
+        {
+          "text": "Need to fix a leakage"
+        },
+        {
+          "text": "plumber"
+        },
+        {
+          "text": "tap is leaking"
+        }
+      ],
+      "description": "Help connect to a plumber"
+    },
+    {
+      "intent": "ConnectWithExperts",
+      "examples": [
+        {
+          "text": "Connect with expert"
+        },
+        {
+          "text": "Connect with experts"
+        },
+        {
+          "text": "Expert advice"
+        },
+        {
+          "text": "Expert view"
+        }
+      ],
+      "description": "Connect with expert"
+    },
+    {
+      "intent": "SaveWaterTips",
+      "examples": [
+        {
+          "text": "How to save water"
+        },
+        {
+          "text": "More information on water saving"
+        },
+        {
+          "text": "Provide information on Save Water"
+        },
+        {
+          "text": "Save more water"
+        },
+        {
+          "text": "Tips for water saving"
+        },
+        {
+          "text": "welcome"
+        }
+      ],
+      "description": "Tips to save water"
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "thanks"
+        }
+      ],
+      "description": "Respond to thanks"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "watersavingdevices",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Shower",
+          "synonyms": [
+            "bathroom"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://www.justdial.com/Pune/Plumbers/nct-10378025",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_2_1623840654186",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1623848521657",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1623926667431"
+    },
+    {
+      "type": "standard",
+      "title": "ShowerDevices",
+      "parent": "node_1_1623848521657",
+      "conditions": "#sav",
+      "dialog_node": "node_10_1623925359456",
+      "previous_sibling": "handler_1_1623926667431"
+    },
+    {
+      "type": "standard",
+      "title": "Save Water",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let me fetch your consumption data."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 1000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Your consumption data shows that the shower consumes 50 liters. \nYou can save water by following ways:\n<ul>\n<li> Limit shower usage time to 10 minutes as currently average usage time is 20min.</li>\n<li>Instead of shower use water filled  in a bucket as this will save close to 20 liters. </li>\n<li>Click <a  target=\"_blank\" href=\"https://www.eco365.co.in/water-saving-tap-adapters.php\">here</a> to see more showers that you can buy to save more water.</li></ul> "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#SaveWaterTips",
+      "dialog_node": "node_1_1623848521657",
+      "previous_sibling": "node_3_1623851069747"
+    },
+    {
+      "type": "standard",
+      "title": "Connect to a plumber",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let me provide you some plumber contacts near your location"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "source": "https://scontent.fpnq7-3.fna.fbcdn.net/v/t1.6435-9/202565609_106633398327156_5410367423522713312_n.png?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=1SOTuACHPooAX8P15oL&_nc_ht=scontent.fpnq7-3.fna&oh=ff877d0feb35bf9f6f5c2dfd8646e764&oe=60CE5C09",
+            "response_type": "image"
+          },
+          {
+            "source": "https://scontent.fpnq7-3.fna.fbcdn.net/v/t1.6435-9/201178174_106641164993046_9126236141763107698_n.png?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=u-xKKB8PtR0AX8w4P3h&_nc_ht=scontent.fpnq7-3.fna&oh=16192c9c895346ca1767da5a34f191c7&oe=60CF46B6",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#ConnectToPlumber",
+      "dialog_node": "node_2_1623840654186",
+      "previous_sibling": "node_1_1623848521657"
+    },
+    {
+      "type": "standard",
+      "title": "Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome. Thanks for being part of Water Saving community."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thanks",
+      "dialog_node": "node_3_1623851069747",
+      "previous_sibling": "node_6_1624013679099"
+    },
+    {
+      "type": "standard",
+      "title": "Expert",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Post your queries or connect with experts on this <a  target=\"_blank\" href=\"https://www.facebook.com/Water-saving-180810028934214\">Water saving channel</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ConnectWithExperts",
+      "dialog_node": "node_6_1624013679099",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello dear Aqua Savior. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "AquaOneAssitantSkills",
+  "language": "en",
+  "description": ""
+}
