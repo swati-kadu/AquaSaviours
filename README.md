@@ -1,5 +1,5 @@
-# Submission or project name
-AquaSaviours
+# AquaSaviours
+
 
 
 ## Contents
@@ -18,10 +18,8 @@ AquaSaviours
   - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
-  - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -64,7 +62,6 @@ The overall cost for installing
 [More detail is available here](./docs/DESCRIPTION.md)
 
 ## Project roadmap
-![Roadmap]
 The prototype submitted does the following:
 1. Allows user to view their water consumption on daily, monthly, yearly basis.
 2. Show water distribution in various areas of home like kitchen, toilet, washing areas etc.
@@ -75,11 +72,6 @@ The prototype submitted does the following:
 7. My Contribution screen shows the user water savings in comparison to other users.
 8. The purity option shows the water purity levels.
 9. The IBM Assistant chatbot is integrated which provides recommendations.
-
-Future Roadmap:
-1. Connect the IOT devices to IOT platform.
-2. A Node-RED workflow then sends the data to the IBM Watson-based machine learning model, which provides the recommendations based on water usage and that is displayed in the AquaOne dashboard.
-3. Store all of the information in a Cloudant database, provide a historical view of the data. The service can be deployed in Kubernetes, inside the IBM Cloud Kubernetes Service and use websockets server with an NGINX web server to show the data in a comprehensive way. Any authenticated and authorized client that supports JavaScript and WebSockets can connect to the dashboard that shows the water utilization of residents who have subscribed to the AquaSaviour services.
 
 
 Future Integrations:
@@ -100,8 +92,7 @@ Future Integrations:
 
 ## Live demo
 
-You can find the prototype at [AquaOne](https://xd.adobe.com/view/605059e6-2920-4f23-85f3-d303b64300ba-3503)
-You can find a running chatbot to test at [AquinaAssitant](https://sites.google.com/view/aquasaviours/home)
+-You can find a running chatbot to test at [AquinaAssitant](https://sites.google.com/view/aquasaviours/home) and the prototype at [AquaOne](https://xd.adobe.com/view/605059e6-2920-4f23-85f3-d303b64300ba-3503)
 
 ## Built with
 
