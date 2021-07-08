@@ -39,6 +39,8 @@ Our idea promotes saving of water by allowing residents to view their water cons
 Apart from above certain IOT device which stop the flow can be used to switch off supply from main inlets when residents are going on vacation. The vacation mode will save water incase residents forget to close taps when there was no supply and when supply resumes the water start overflowing causing a lot of wastage.
 The main focus of our idea remains on helping each resident save as much water as they can by providing access to all the required information. The data collected from IOT devices is maintained in IBM cloud and Cognos is used to generate the required graphs for gamification.
 
+The overall cost for installing 
+
 ## Demo video
 [![Watch the video](https://github.com/swati-kadu/AquaSaviours/blob/main/images/savewater.png)](https://www.youtube.com/watch?v=EShozfM1Pik)
 
